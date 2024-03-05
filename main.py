@@ -14,7 +14,7 @@ load_dotenv()
 
 # for production #
 PROXY = None
-DISCORD_KEY = os.getenv("DISCORD_KEY")
+DISCORD_KEY = os.getenv("UyjrQEcOIsu-OBuZVDKwr5E5QD5M0XKy")
 
 PURGE_INTERVAL = 33 # in seconds
 MAX_DURATION = timedelta(days = 3333)
